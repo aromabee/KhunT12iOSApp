@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="app_textures">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="back_icon"	x="1706"	y="3050"	width="170"	height="170" frameX="-0" frameY="-0" frameWidth="170" frameHeight="170"/>
+	<SubTexture name="button_bar"	x="0"	y="1419"	width="1200"	height="134" frameX="-0" frameY="-0" frameWidth="1200" frameHeight="134"/>
+	<SubTexture name="dot"	x="1211"	y="745"	width="80"	height="80" frameX="-0" frameY="-0" frameWidth="80" frameHeight="80"/>
+	<SubTexture name="hand_rotation_icon"	x="0"	y="0"	width="1450"	height="512" frameX="-0" frameY="-0" frameWidth="1450" frameHeight="512"/>
+	<SubTexture name="head_bar"	x="0"	y="1244"	width="1200"	height="174" frameX="-0" frameY="-0" frameWidth="1200" frameHeight="174"/>
+	<SubTexture name="instruction_3d"	x="0"	y="513"	width="1210"	height="730" frameX="-0" frameY="-0" frameWidth="1210" frameHeight="730"/>
+	<SubTexture name="instruction_menu"	x="0"	y="1965"	width="1074"	height="294" frameX="-0" frameY="-0" frameWidth="1074" frameHeight="294"/>
+	<SubTexture name="instruction_page_number_left"	x="2704"	y="2772"	width="430"	height="284" frameX="-0" frameY="-0" frameWidth="430" frameHeight="284"/>
+	<SubTexture name="instruction_page_number_right"	x="2875"	y="808"	width="370"	height="236" frameX="-0" frameY="-0" frameWidth="370" frameHeight="236"/>
+	<SubTexture name="instruction_swipe"	x="0"	y="1554"	width="1190"	height="410" frameX="-0" frameY="-0" frameWidth="1190" frameHeight="410"/>
+	<SubTexture name="lastPageLabel"	x="2704"	y="2386"	width="453"	height="177" frameX="-0" frameY="-0" frameWidth="453" frameHeight="177"/>
+	<SubTexture name="logo_p14_p15"	x="2104"	y="1680"	width="476"	height="133" frameX="-0" frameY="-0" frameWidth="476" frameHeight="133"/>
+	<SubTexture name="logo_p16_p17"	x="2104"	y="1814"	width="462"	height="195" frameX="-0" frameY="-0" frameWidth="462" frameHeight="195"/>
+	<SubTexture name="logo_p18_p20"	x="2704"	y="2564"	width="452"	height="207" frameX="-0" frameY="-0" frameWidth="452" frameHeight="207"/>
+	<SubTexture name="logo_p6_p9"	x="1211"	y="840"	width="702"	height="147" frameX="-0" frameY="-0" frameWidth="702" frameHeight="147"/>
+	<SubTexture name="option_close"	x="1211"	y="684"	width="160"	height="60" frameX="-0" frameY="-0" frameWidth="160" frameHeight="60"/>
+	<SubTexture name="option_close_icon"	x="1075"	y="1965"	width="50"	height="50" frameX="-0" frameY="-0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="option_icon"	x="1211"	y="513"	width="170"	height="170" frameX="-0" frameY="-0" frameWidth="170" frameHeight="170"/>
+	<SubTexture name="option_instruction_icon"	x="1292"	y="745"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="option_text_0"	x="2875"	y="1265"	width="346"	height="55" frameX="-0" frameY="-0" frameWidth="346" frameHeight="55"/>
+	<SubTexture name="option_text_1"	x="1075"	y="2152"	width="520"	height="100" frameX="-0" frameY="-0" frameWidth="520" frameHeight="100"/>
+	<SubTexture name="option_text_10"	x="945"	y="3050"	width="361"	height="44" frameX="-0" frameY="-0" frameWidth="361" frameHeight="44"/>
+	<SubTexture name="option_text_2"	x="2875"	y="1537"	width="305"	height="55" frameX="-0" frameY="-0" frameWidth="305" frameHeight="55"/>
+	<SubTexture name="option_text_3"	x="2248"	y="786"	width="339"	height="53" frameX="-0" frameY="-0" frameWidth="339" frameHeight="53"/>
+	<SubTexture name="option_text_4"	x="1468"	y="3372"	width="406"	height="55" frameX="-0" frameY="-0" frameWidth="406" frameHeight="55"/>
+	<SubTexture name="option_text_5"	x="2875"	y="1321"	width="343"	height="55" frameX="-0" frameY="-0" frameWidth="343" frameHeight="55"/>
+	<SubTexture name="option_text_6"	x="1307"	y="3050"	width="302"	height="43" frameX="-0" frameY="-0" frameWidth="302" frameHeight="43"/>
+	<SubTexture name="option_text_7"	x="1211"	y="1164"	width="445"	height="54" frameX="-0" frameY="-0" frameWidth="445" frameHeight="54"/>
+	<SubTexture name="option_text_8"	x="648"	y="3415"	width="238"	height="54" frameX="-0" frameY="-0" frameWidth="238" frameHeight="54"/>
+	<SubTexture name="option_text_9"	x="0"	y="3415"	width="647"	height="55" frameX="-0" frameY="-0" frameWidth="647" frameHeight="55"/>
+	<SubTexture name="option_text_instruction"	x="1657"	y="1164"	width="360"	height="60" frameX="-0" frameY="-0" frameWidth="360" frameHeight="60"/>
+	<SubTexture name="p10"	x="0"	y="2945"	width="944"	height="152" frameX="-0" frameY="-0" frameWidth="944" frameHeight="152"/>
+	<SubTexture name="p13"	x="889"	y="3098"	width="816"	height="159" frameX="-0" frameY="-0" frameWidth="816" frameHeight="159"/>
+	<SubTexture name="p14_1"	x="2704"	y="3315"	width="370"	height="119" frameX="-0" frameY="-0" frameWidth="370" frameHeight="119"/>
+	<SubTexture name="p15_1"	x="2837"	y="0"	width="442"	height="807" frameX="-0" frameY="-0" frameWidth="442" frameHeight="807"/>
+	<SubTexture name="p15_2"	x="3157"	y="2564"	width="268"	height="172" frameX="-0" frameY="-0" frameWidth="268" frameHeight="172"/>
+	<SubTexture name="p15_3"	x="2704"	y="1680"	width="505"	height="705" frameX="-0" frameY="-0" frameWidth="505" frameHeight="705"/>
+	<SubTexture name="p15_4"	x="3125"	y="3057"	width="289"	height="232" frameX="-0" frameY="-0" frameWidth="289" frameHeight="232"/>
+	<SubTexture name="p16_1"	x="889"	y="3372"	width="578"	height="101" frameX="-0" frameY="-0" frameWidth="578" frameHeight="101"/>
+	<SubTexture name="p17_1"	x="2248"	y="0"	width="588"	height="785" frameX="-0" frameY="-0" frameWidth="588" frameHeight="785"/>
+	<SubTexture name="p17_2"	x="2875"	y="1045"	width="366"	height="219" frameX="-0" frameY="-0" frameWidth="366" frameHeight="219"/>
+	<SubTexture name="p17_3"	x="1917"	y="2879"	width="786"	height="551" frameX="-0" frameY="-0" frameWidth="786" frameHeight="551"/>
+	<SubTexture name="p17_4"	x="3135"	y="2772"	width="282"	height="227" frameX="-0" frameY="-0" frameWidth="282" frameHeight="227"/>
+	<SubTexture name="p18_1"	x="1596"	y="2152"	width="308"	height="97" frameX="-0" frameY="-0" frameWidth="308" frameHeight="97"/>
+	<SubTexture name="p20_2"	x="3075"	y="3315"	width="304"	height="153" frameX="-0" frameY="-0" frameWidth="304" frameHeight="153"/>
+	<SubTexture name="p20_4"	x="2875"	y="1377"	width="336"	height="159" frameX="-0" frameY="-0" frameWidth="336" frameHeight="159"/>
+	<SubTexture name="p21"	x="0"	y="3098"	width="888"	height="316" frameX="-0" frameY="-0" frameWidth="888" frameHeight="316"/>
+	<SubTexture name="p23_2"	x="889"	y="3258"	width="732"	height="113" frameX="-0" frameY="-0" frameWidth="732" frameHeight="113"/>
+	<SubTexture name="p2_1"	x="2704"	y="3057"	width="420"	height="257" frameX="-0" frameY="-0" frameWidth="420" frameHeight="257"/>
+	<SubTexture name="p3"	x="1075"	y="2021"	width="710"	height="130" frameX="-0" frameY="-0" frameWidth="710" frameHeight="130"/>
+	<SubTexture name="p6_1"	x="0"	y="2260"	width="962"	height="684" frameX="-0" frameY="-0" frameWidth="962" frameHeight="684"/>
+	<SubTexture name="p6_2"	x="963"	y="2260"	width="953"	height="789" frameX="-0" frameY="-0" frameWidth="953" frameHeight="789"/>
+	<SubTexture name="p7_1"	x="1451"	y="0"	width="796"	height="839" frameX="-0" frameY="-0" frameWidth="796" frameHeight="839"/>
+	<SubTexture name="p7_2"	x="1917"	y="2021"	width="786"	height="857" frameX="-0" frameY="-0" frameWidth="786" frameHeight="857"/>
+	<SubTexture name="p8_1"	x="2104"	y="840"	width="770"	height="839" frameX="-0" frameY="-0" frameWidth="770" frameHeight="839"/>
+	<SubTexture name="p8_2"	x="1201"	y="1244"	width="902"	height="776" frameX="-0" frameY="-0" frameWidth="902" frameHeight="776"/>
+	<SubTexture name="p9_2"	x="1211"	y="988"	width="661"	height="175" frameX="-0" frameY="-0" frameWidth="661" frameHeight="175"/>
+	<SubTexture name="resuming_text"	x="1622"	y="3258"	width="270"	height="60" frameX="-0" frameY="-0" frameWidth="270" frameHeight="60"/>
+</TextureAtlas>

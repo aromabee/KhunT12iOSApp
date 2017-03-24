@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ui_textures">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="button_exit"	x="186"	y="0"	width="100"	height="100" frameX="-0" frameY="-0" frameWidth="100" frameHeight="100"/>
+	<SubTexture name="hand_icon"	x="186"	y="101"	width="84"	height="134" frameX="-0" frameY="-0" frameWidth="84" frameHeight="134"/>
+	<SubTexture name="rotation_180"	x="0"	y="111"	width="185"	height="110" frameX="-0" frameY="-0" frameWidth="185" frameHeight="110"/>
+	<SubTexture name="rotation_360"	x="0"	y="0"	width="185"	height="110" frameX="-0" frameY="-0" frameWidth="185" frameHeight="110"/>
+</TextureAtlas>

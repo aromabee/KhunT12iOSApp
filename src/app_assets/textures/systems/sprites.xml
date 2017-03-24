@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="loading0001.png"	x="108"	y="240"	width="107"	height="133" frameX="-0" frameY="-1" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0002.png"	x="324"	y="0"	width="107"	height="131" frameX="-0" frameY="-3" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0003.png"	x="216"	y="371"	width="107"	height="128" frameX="-0" frameY="-6" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0004.png"	x="216"	y="245"	width="107"	height="125" frameX="-0" frameY="-9" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0005.png"	x="216"	y="121"	width="107"	height="123" frameX="-0" frameY="-11" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0006.png"	x="216"	y="0"	width="107"	height="120" frameX="-0" frameY="-14" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0007.png"	x="108"	y="374"	width="107"	height="118" frameX="-0" frameY="-16" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0008.png"	x="324"	y="132"	width="107"	height="115" frameX="-0" frameY="-19" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0009.png"	x="108"	y="121"	width="107"	height="118" frameX="-0" frameY="-16" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0010.png"	x="108"	y="0"	width="107"	height="120" frameX="-0" frameY="-14" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0011.png"	x="0"	y="387"	width="107"	height="123" frameX="-0" frameY="-11" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0012.png"	x="0"	y="261"	width="107"	height="125" frameX="-0" frameY="-9" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0013.png"	x="0"	y="132"	width="107"	height="128" frameX="-0" frameY="-6" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0014.png"	x="0"	y="0"	width="107"	height="131" frameX="-0" frameY="-3" frameWidth="107" frameHeight="140"/>
+	<SubTexture name="loading0015.png"	x="108"	y="240"	width="107"	height="133" frameX="-0" frameY="-1" frameWidth="107" frameHeight="140"/>
+</TextureAtlas>
