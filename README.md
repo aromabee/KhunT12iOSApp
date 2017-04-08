@@ -5,3 +5,5 @@
 <br>
 <h3>Platform</h3>
 <p>- iOS all devices of iPhone and iPad (including iPad Pro)</p>
+<br>
+<img src="https://github.com/aromabee/KhunT12iOSApp/blob/master/screenshot.jpg?raw=true"/>
